@@ -1,0 +1,23 @@
+{
+  "name": "backbone.fwd",
+  "version": "0.1.0",
+  "homepage": "https://github.com/trade-informatics/backbone.fwd",
+  "authors": [
+    "Derick Bailey"
+  ],
+  "description": "Forward events from one Backbone object, through another.",
+  "main": "./dist/backbone.fwd.js",
+  "keywords": [
+    "backbone",
+    "event",
+    "forwarding"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
